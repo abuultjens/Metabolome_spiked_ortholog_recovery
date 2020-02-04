@@ -6,7 +6,7 @@ Andrew Buultjens
 # Synopsis
 Metabolome_spiked_ortholog_recovery - generating results for an ARC grant
 
-# 1. generate simulated data (this uses Torsten's mockery.pl script)
+1. generate simulated data (this uses Torsten's mockery.pl script)
 ```
 % sh data-simulator.sh SPIKE_LIST.txt
 ```
